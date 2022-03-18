@@ -14,4 +14,5 @@ ssid2,pass2
 .
 .
 
+
 visite http://your_esp32s2_ip with file explorer or save file with 3d slicer software.
